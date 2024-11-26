@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+*.my-pro filter=lfs diff=lfs merge=lfs -text
